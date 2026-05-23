@@ -1,0 +1,9 @@
+# Expanded projectile hitboxes
+# radius = how close (in blocks) a target needs to be for the projectile
+# to register as a hit. Real hitbox is ~0.25; we expand to give cleaner hits.
+pearl:
+  enabled: true
+  radius: 0.8        # ender pearl
+windcharge:
+  enabled: true
+  radius: 1.8        # wind charge (bigger, like a small AoE)
