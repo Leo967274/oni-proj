@@ -1,7 +1,0 @@
-name: OniProj
-version: '${project.version}'
-main: com.oni.proj.OniProj
-api-version: '1.21'
-authors: [ ONI Team ]
-description: Expanded hitboxes for windcharge and ender pearl
-load: POSTWORLD
